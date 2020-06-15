@@ -1,6 +1,6 @@
-# vue-learn-01
+# vue-justauth-learn 
 
-> 重新搭建vue项目学习
+> 配合 justauth 提供一个登录页面 并且可以使用 QQ 登录 
 
 ## Build Setup
 
